@@ -7,8 +7,11 @@ FLTOKQ
 Felhasznált modulok:
 
  requests  (Bemutatandó)
+ 
  math      (tanult)
+ 
  random    (tanult)
+ 
  modul1    (saját)
  
 ////////////////////////////////
@@ -16,8 +19,11 @@ Felhasznált modulok:
 A program rövid leírása:
 
 A program egy szám kitalálgatós játék.
+
 Egy random számot ad meg a megadott határokon belül,
+
 majd ezt a játékosnak ki kell találnia bizonyos próbálkozásokon belül.
+
 A program annyi visszajelzést ad hogy túl nagyot vagy kicsit adtunk meg.
 
 ////////////////////////////////
@@ -31,4 +37,5 @@ Saját osztályok:
 Saját függvények:
 
   printer()
+  
   IsItGood():
